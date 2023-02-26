@@ -1,2 +1,2 @@
 # python_dio
-projetos de python dio
+desafios de código e projetos DIO
